@@ -14,3 +14,8 @@ even_odd.py
 multiplication_table.py
 number_guessing.py
 simple_calculator.py
+
+
+
+# Clone the repository:
+git clone https://github.com/KONDA-SUBHASHINI/python-ml-foundations.git
