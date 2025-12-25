@@ -4,12 +4,12 @@ This repository documents my structured journey revisiting Python fundamentals a
 
 # Day 1
 
-# Basics & Operators:
+#Basics & Operators:
 Learned variables and data types
 Learned operators
 Practiced basic input/output programs
 
-# Programs:
+#Programs:
 even_odd.py
 multiplication_table.py
 number_guessing.py
