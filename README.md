@@ -15,7 +15,19 @@ multiplication_table.py
 number_guessing.py
 simple_calculator.py
 
+# Day 2
 
+# Control Statements:
+Learned if–else and nested conditions
+Solved real-world conditional problems
+
+# Programs:
+calculate_bmi.py
+leap_year_validation.py
+life_remaining_calculator.py
+love_score_calculator.py
+pizza_ordering.py
+ride_eligibility_and_bill.py
 
 # Clone the repository:
 git clone https://github.com/KONDA-SUBHASHINI/python-ml-foundations.git
