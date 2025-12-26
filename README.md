@@ -11,8 +11,11 @@ Practiced basic input/output programs
 
 # Programs:
 even_odd.py
+
 multiplication_table.py
+
 number_guessing.py
+
 simple_calculator.py
 
 # Day 2
