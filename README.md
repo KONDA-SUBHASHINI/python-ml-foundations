@@ -4,12 +4,17 @@ This repository documents my structured journey revisiting Python fundamentals a
 
 # Day 1
 
+
 # Basics & Operators:
+
 Learned variables and data types
+
 Learned operators
+
 Practiced basic input/output programs
 
 # Programs:
+
 even_odd.py
 
 multiplication_table.py
@@ -20,16 +25,25 @@ simple_calculator.py
 
 # Day 2
 
+
 # Control Statements:
+
 Learned if–else and nested conditions
+
 Solved real-world conditional problems
 
 # Programs:
+
 calculate_bmi.py
+
 leap_year_validation.py
+
 life_remaining_calculator.py
+
 love_score_calculator.py
+
 pizza_ordering.py
+
 ride_eligibility_and_bill.py
 
 # Clone the repository:
